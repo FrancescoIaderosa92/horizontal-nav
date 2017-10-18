@@ -1,4 +1,12 @@
 html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+html {
   background-color: #dbd6cf;
   text-align: center;
   color: #fff;
