@@ -25,6 +25,7 @@ h1 {
 
 ol {
   list-style-type: none;
+  padding: 0;
 }
 
 a {
@@ -33,6 +34,7 @@ a {
   background-color: #713837;
   padding: .5em .75em;
   display: inline-block;
+  margin-bottom: .3em;
 }
 
 nav {
